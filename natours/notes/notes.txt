@@ -23,3 +23,7 @@ RESPONSIVE DESIGN="DESIGN" PRINCIPLES</for>
     -> CSS grid
         - for laying out element in a fully-fledged 2-dimensional grid.
         - perfect for page layouts and complex components.
+
+INCLUDING ICONS IN A WEBPAGE.
+    -> Website to download icons => linea.io
+    -> Images website => unsplash.com
